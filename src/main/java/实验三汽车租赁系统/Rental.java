@@ -1,4 +1,4 @@
-package 汽车租赁系统;
+package 实验三汽车租赁系统;
 
 public class Rental {
     private int rentalDays;

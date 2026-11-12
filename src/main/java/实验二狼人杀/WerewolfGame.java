@@ -1,4 +1,4 @@
-package 狼人杀;
+package 实验二狼人杀;
 
 import java.util.Scanner;
 
