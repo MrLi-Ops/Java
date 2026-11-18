@@ -5,7 +5,7 @@ public class Rectangle extends Shape {
     private double height;
 
     public Rectangle(String color, boolean fill, double borderWidth, double width, double height) {
-        super();
+        super(color, fill, borderWidth);
         this.width = width;
         this.height = height;
     }

@@ -6,7 +6,7 @@ public class Triangle extends Shape {
     private double c;
 
     public Triangle(String color, boolean fill, double borderWidth, double a, double b, double c) {
-        super();
+        super(color, fill, borderWidth);
         this.a = a;
         this.b = b;
         this.c = c;

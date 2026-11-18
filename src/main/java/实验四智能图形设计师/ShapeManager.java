@@ -31,6 +31,7 @@ public class ShapeManager {
                 s.getArea(); // 确保面积是最新的
                 System.out.println("图形[" + i + "] | 类型: " + s.getClass().getSimpleName()
                         + " | 颜色: " + s.getColor()
+                        + " | 填充: " + s.getFill()
                         + " | 面积: " + s.getArea());
             }
         }
